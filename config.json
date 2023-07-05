@@ -1,0 +1,12 @@
+{
+  "test": {
+    "resource": {
+      "path": "../project-a",
+      "branch": "develop"
+    },
+    "framework": {
+      "path": "../project-b",
+      "branch": "develop"
+    }
+  }
+}

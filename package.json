@@ -1,0 +1,15 @@
+{
+  "name": "auto_change_branch",
+  "version": "1.0.0",
+  "description": "自动化切换多个项目分支",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "xiaogang yang",
+  "email": "287134285@qq.com",
+  "license": "ISC",
+  "dependencies": {
+    "shelljs": "^0.8.5"
+  }
+}
